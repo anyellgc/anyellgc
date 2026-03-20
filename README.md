@@ -38,11 +38,8 @@
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" height="60" width="60"/>
   <img src="https://img.icons8.com/color/48/python.png" title="Python" height="60" width="60"/>
   <img src="https://img.icons8.com/color/48/django.png" title="Django" height="60" width="60"/>
-  <img src="https://img.icons8.com/color/48/angularjs.png" title="Angular" height="60" width="60"/>
-  <img src="https://img.icons8.com/ios-filled/50/flask.png" title="Flask" height="60" width="60"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL" height="60" width="60"/>
   <img height="60" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
 </p>
  
 <br>
